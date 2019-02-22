@@ -2,7 +2,7 @@
 {
     "name": "mobiliteit",
     "type": "voc",
-    "eap": "OSLO-Vocabularium.eap",
+    "eap": "OSLO-Mobiliteit-VOC.eap",
     "diagram": "OSLO-Mobiliteit",
     "template": "mobiliteit-voc.j2",
 	"publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
