@@ -5,12 +5,15 @@
     "eap": "OSLO-Mobiliteit-VOC.eap",
     "diagram": "OSLO-Mobiliteit",
     "template": "mobiliteit-voc.j2",
-	"publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "12-12-2018",
+	"title": "Mobiliteit",
+	"publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "30-09-2018",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Mobiliteit",
     "config" : "config/config-voc.json",
-    "site": "site-skeleton"
+    "site": "site-skeleton",
+	"feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion", 
+    "standaardregisterurl" : "https://data.vlaanderen.be/standaarden"
   },
   {
     "name": "inname-openbaar-domein",
@@ -19,12 +22,14 @@
     "diagram": "OSLO-Mobiliteit_applicatieprofiel_inname_openbaar_domein",
     "template": "inname-openbaar-domein-ap.j2",
     "title": "Inname openbaar domein",
-	"publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "12-12-2018",
+	"publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "10-05-2018",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Mobiliteit",
     "config" : "config/config-ap.json",
-    "site": "site-skeleton/inname-openbaar-domein"
+    "site": "site-skeleton/inname-openbaar-domein",
+	"feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion", 
+    "standaardregisterurl" : "https://data.vlaanderen.be/standaarden"
   },
   {
     "name": "besluit-mobiliteit",
@@ -33,12 +38,14 @@
     "diagram": "OSLO-Mobiliteit_applicatieprofiel_besluit_mobiliteit",
     "template": "besluit-mobiliteit-ap.j2",
     "title": "Besluit Mobiliteit",
-	"publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "12-12-2018",
+	"publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "30-09-2018",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Mobiliteit",
     "config" : "config/config-ap.json",
-    "site": "site-skeleton/besluit-mobiliteit"
+    "site": "site-skeleton/besluit-mobiliteit",
+	"feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion", 
+    "standaardregisterurl" : "https://data.vlaanderen.be/standaarden"
   },
     {
     "name": "verkeersborden",
@@ -47,11 +54,13 @@
     "diagram": "OSLO-Mobiliteit_applicatieprofiel_verkeersborden",
     "template": "verkeersborden-ap.j2",
     "title": "Verkeersborden",
-	"publication-state": "https://data.vlaanderen.be/id/conceptscheme/StandaardStatus/OntwerpdocumentInOntwikkeling",
-    "publication-date": "12-12-2018",
+	"publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "niet-bepaald",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Verkeersborden",
     "config" : "config/config-ap.json",
-    "site": "site-skeleton/verkeersborden"
+    "site": "site-skeleton/verkeersborden",
+	"feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion", 
+    "standaardregisterurl" : "https://data.vlaanderen.be/standaarden"
   }
  ]
