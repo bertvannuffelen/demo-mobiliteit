@@ -1,0 +1,16 @@
+{
+  "name": "inname-openbaar-domein",
+  "type": "ap",
+  "eap": "OSLO-Inname-Openbaar-Domein-AP.eap",
+  "diagram": "OSLO-Mobiliteit_applicatieprofiel_inname_openbaar_domein",
+  "template": "inname-openbaar-domein-ap.j2",
+  "title": "Inname openbaar domein",
+  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+  "publication-date": "10-05-2018",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "Mobiliteit",
+  "config": "config/config-ap.json",
+  "site": "site-skeleton/inname-openbaar-domein",
+  "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden"
+}
