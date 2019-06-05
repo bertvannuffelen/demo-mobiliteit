@@ -1,16 +1,18 @@
-{
-  "name": "mobiliteit",
-  "type": "voc",
-  "eap": "OSLO-Mobiliteit-VOC.eap",
-  "diagram": "OSLO-Mobiliteit",
-  "template": "mobiliteit-voc.j2",
-  "title": "Mobiliteit",
-  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-  "publication-date": "30-09-2018",
-  "contributors-file": "stakeholders.csv",
-  "contributors-column": "Mobiliteit",
-  "config": "config/config-voc.json",
-  "site": "site-skeleton",
-  "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
-  "standaardregisterurl": "https://data.vlaanderen.be/standaarden"
-}
+[
+  {
+    "name": "mobiliteit",
+    "type": "voc",
+    "eap": "OSLO-Mobiliteit-VOC.eap",
+    "diagram": "OSLO-Mobiliteit",
+    "template": "mobiliteit-voc.j2",
+    "title": "Mobiliteit",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "30-09-2018",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Mobiliteit",
+    "config": "config/config-voc.json",
+    "site": "site-skeleton",
+    "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
+    "standaardregisterurl": "https://data.vlaanderen.be/standaarden"
+  }
+]

@@ -1,16 +1,18 @@
-{
-  "name": "verkeersborden",
-  "type": "ap",
-  "eap": "OSLO-Verkeersborden-AP.eap",
-  "diagram": "OSLO-Mobiliteit_applicatieprofiel_verkeersborden",
-  "template": "verkeersborden-ap.j2",
-  "title": "Verkeersborden",
-  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
-  "publication-date": "niet-bepaald",
-  "contributors-file": "stakeholders.csv",
-  "contributors-column": "Verkeersborden",
-  "config": "config/config-ap.json",
-  "site": "site-skeleton/verkeersborden",
-  "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
-  "standaardregisterurl": "https://data.vlaanderen.be/standaarden"
-}
+[
+  {
+    "name": "verkeersborden",
+    "type": "ap",
+    "eap": "OSLO-Verkeersborden-AP.eap",
+    "diagram": "OSLO-Mobiliteit_applicatieprofiel_verkeersborden",
+    "template": "verkeersborden-ap.j2",
+    "title": "Verkeersborden",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpdocumentInOntwikkeling",
+    "publication-date": "niet-bepaald",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Verkeersborden",
+    "config": "config/config-ap.json",
+    "site": "site-skeleton/verkeersborden",
+    "feedbackurl": "https://github.com/informatievlaanderen/OSLO-Discussion",
+    "standaardregisterurl": "https://data.vlaanderen.be/standaarden"
+  }
+]
